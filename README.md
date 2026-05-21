@@ -1,2 +1,28 @@
-# Rock-_Paper_Scissors
-A GUI Rock Paper Scissors game built using Python and tkinter with score tracking and random computer choices.
+# GUI Rock Paper Scissors (Python)
+
+## About
+
+A simple Rock Paper Scissors game built using Python and tkinter.
+
+## Features
+
+* Play against computer
+* Random computer choices
+* Score tracking
+* GUI interface
+
+## Tech Used
+
+* Python
+* Tkinter
+
+## How to Run
+
+Run the Python file and choose Rock, Paper, or Scissors.
+
+## Future Improvements
+
+* Restart button
+* Sound effects
+* Difficulty modes
+* Better UI design
